@@ -1,8 +1,8 @@
 # Store Badges
 
-Badges asset of two popular apps stores — App Store and Google Play.
-
 ![Store Badges](/store_badges.png)
+
+Badges asset of two popular apps stores — App Store and Google Play.
 
 ## Links
 Also, you can get this badges in their native place (and guidelines of using them):
